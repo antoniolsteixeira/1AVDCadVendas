@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "salescontrolnew",
+    "slug": "salescontrolnew",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
